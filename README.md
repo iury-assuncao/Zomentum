@@ -7,7 +7,7 @@
 <br><br>
 
 <h1> Mobile 📱 </h1>
-<div><img src="imgs/img_git/zomentum_mobile.gif"></div>
+<div><img src="></div>
 
 <hr>
 
