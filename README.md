@@ -15,8 +15,7 @@
 <h1> Sobre 🔖</h1>
 
 <p>
-Este projeto teve como objetivo colocar em prática os conhecimentos sobre flexbox, responsividade e uma introdução ao Js, com a utilização do DOM, 
-manipulação de datas e um menu mobile também.</p>
+Este projeto teve como objetivo colocar em prática os conhecimentos sobre flexbox, responsividade e uma introdução ao Js, com a utilização do DOM, manipulação de datas e um menu mobile também.</p>
 
 <hr>
 <br><br>
