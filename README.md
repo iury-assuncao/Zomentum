@@ -3,11 +3,11 @@
 <hr>
 
 <h1> Desktop 💻</h1>
-<div><img src="imgs/img_git/zomentum_desk.gif"></div>
+<div><img src="imgs/desk/zometum_desk.gif"></div>
 <br><br>
 
 <h1> Mobile 📱 </h1>
-<div><img src="></div>
+<div align="center"><img src="imgs/mobile/zometum_mobile.gif"></div>
 
 <hr>
 
